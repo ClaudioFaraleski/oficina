@@ -1,4 +1,5 @@
-# oficina
+# bancoo de dados oficina desafio dio 
+# aonde foi criado um banco de dados com suas respectivas tabelas 
 
 Tabela Cliente:
 - id_cliente (PK)
