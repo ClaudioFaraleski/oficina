@@ -1,5 +1,5 @@
 # bancoo de dados oficina desafio dio 
-# aonde foi criado um banco de dados com suas respectivas tabelas 
+ abaixo foi criado um banco de dados com suas respectivas tabelas para representar uma oficina de automoveis
 
 Tabela Cliente:
 - id_cliente (PK)
